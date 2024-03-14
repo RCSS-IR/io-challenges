@@ -9,4 +9,4 @@ In this repository you can find the technical challenges of IranOpen robocup com
 
 
 ## License
-This repository is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full license text.
+This repository is licensed under the AGPL-3.0 license, See [LICENSE](LICENSE) for the full license text.
